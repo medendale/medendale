@@ -6,12 +6,14 @@
 
 I'm a Full-stack Developer From Washington Dc, Currently available for hire!
 
-Have Experiance on  React/JavaScript/HTML/CSS experience.
+Have Experiance on  React/JavaScript/HTML/CSS .
 
-My interests are also include:
+
 
 
 (Photo by Domenico Loia on Unsplash)
 
 
 [linkdin](https://www.linkedin.com/in/medhanit-endale-15b7861b6/)
+[Twiter](https://twitter.com/home)
+[Dev](https://dev.to/medendale)
