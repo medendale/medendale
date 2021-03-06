@@ -3,16 +3,16 @@
 :wave:
 Hello, I'm Medhanit
 
-I'm a Full-stack Developer From Washington Dc, Currently available for hire!
+:computer: a Full-stack Developer From Washington Dc, Currently available for hire!
 
-Have Experiance on  React/JavaScript/HTML/CSS .
+Have 2 Year Experiance on  React/JavaScript/HTML/CSS .
 
-
-
+My interests are also include:
+:musical_score: :telescope: Biking :bicyclist: Music Movie  :camera: b
 
 (Photo by Domenico Loia on Unsplash)
 
-
-[linkdin](https://www.linkedin.com/in/medhanit-endale-15b7861b6/)
-[Twiter](https://twitter.com/home)
-[Dev](https://dev.to/medendale)
+:arrow_forward:Portfolio](https://developermed.com/)
+:arrow_forward:linkdin](https://www.linkedin.com/in/medhanit-endale-15b7861b6/)
+:arrow_forward:Twiter](https://twitter.com/home)
+:arrow_forward:Dev](https://dev.to/medendale)
