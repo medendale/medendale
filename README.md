@@ -1,8 +1,7 @@
 ### Hi there 👋
 ![domenico-loia-EhTcC9sYXsw-unsplash](https://user-images.githubusercontent.com/70830116/109610278-8c593000-7afa-11eb-9344-bc3090a559f8.jpg)
-:simple_smile:
-
-- Hi, I'm Medhanit
+:wave:
+Hello, I'm Medhanit
 
 I'm a Full-stack Developer From Washington Dc, Currently available for hire!
 
