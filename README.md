@@ -7,7 +7,7 @@ Hello, I'm Medhanit
 
 Have 2 Year Experiance on  React/JavaScript/HTML/CSS .
 
-My interests are also include:
+In my free time...
 Music:musical_score: :telescope: Biking :bicyclist:  Movie  :camera: b
 
 (Photo by Domenico Loia on Unsplash)
