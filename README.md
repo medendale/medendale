@@ -8,11 +8,12 @@ Hello, I'm Medhanit
 Have 2 Year Experiance on  React/JavaScript/HTML/CSS .
 
 In my free time...
-Music:musical_score: :telescope: Biking :bicyclist:  Movie  :camera: b
+
+:musical_score:Music :telescope: astronomy :bicyclist: Biking  :camera:  Movie
 
 (Photo by Domenico Loia on Unsplash)
 
-:arrow_forward:[Portfolio](https://developermed.com/)
-:arrow_forward:[linkdin](https://www.linkedin.com/in/medhanit-endale-15b7861b6/)
-:arrow_forward:[Twiter](https://twitter.com/home)
-:arrow_forward:[Dev](https://dev.to/medendale)
+:large_blue_diamond:[Portfolio](https://developermed.com/)
+:large_blue_diamond:[linkdin](https://www.linkedin.com/in/medhanit-endale-15b7861b6/)
+:large_blue_diamond:[Twiter](https://twitter.com/home)
+:large_blue_diamond:[Dev](https://dev.to/medendale)
