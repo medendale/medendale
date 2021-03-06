@@ -3,7 +3,7 @@
 :wave:
 Hello, I'm Medhanit
 
-:computer: a Full-stack Developer From Washington Dc, Currently available for hire!
+:computer: A Full-stack Developer From Washington Dc, Currently available for hire!
 
 Have 2 Year Experiance on  React/JavaScript/HTML/CSS .
 
