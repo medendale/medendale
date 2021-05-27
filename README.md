@@ -13,6 +13,6 @@ In my free time :point_right:
 (Photo by Domenico Loia on Unsplash)
 
 :large_blue_diamond:  [Portfolio](https://developermed.com/)
-:large_blue_diamond:[linkdin](https://www.linkedin.com/in/medhanit-endale-15b7861b6/)
-:large_blue_diamond:[Twiter](https://twitter.com/home)
-:large_blue_diamond:[Dev](https://dev.to/medendale)
+:large_blue_diamond:  [linkdin](https://www.linkedin.com/in/medhanit-endale-15b7861b6/)
+:large_blue_diamond:  [Twiter](https://twitter.com/home)
+:large_blue_diamond:  [Dev](https://dev.to/medendale)
