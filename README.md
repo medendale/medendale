@@ -5,7 +5,7 @@ Hello, I'm Medhanit
 
 :computer: A Full-stack Developer From Washington Dc, Currently available for hire!
 
-Have 2 Year Experiance on  React/JavaScript/HTML/CSS .
+Have 3 Year Experiance on  React/JavaScript/HTML/CSS .
 
 In my free time :point_right:
 :musical_score:Music, :telescope: astronomy, :bicyclist: Biking,  :camera:  Movie
