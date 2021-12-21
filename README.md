@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **medendale@gmail.com**
 
-- ⚡ Fun fact **I think The world is Flat**
+- ⚡ Fun fact **I still think The world is Flat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
