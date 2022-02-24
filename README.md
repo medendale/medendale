@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Medhanit</h1>
-<h3 align="center">A Software developer from DMV</h3>
+<h3 align="center">A Software developer from Washington,DC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medendale&label=Profile%20views&color=0e75b6&style=flat" alt="medendale" /> </p>
 
