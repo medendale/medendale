@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **A Tech start up**
 
-- 🌱 I’m currently learning **Google cloud**
+- 🌱 I’m always learning 
 
-- 👯 I’m looking to collaborate on **Any Projects**
+- 👯 I’m Happy to collaborate on **Any Projects**
 
 - 👨‍💻 All of my projects are available at [https://developermed.com/](https://developermed.com/)
 
