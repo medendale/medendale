@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medendale&label=Profile%20views&color=0e75b6&style=flat" alt="medendale" /> </p>
 
-- 🔭 I’m currently working on **Google Cloud**
 
 - 🌱 I’m always learning 
 
@@ -13,7 +12,7 @@
 
 - 📫 How to reach me **medendale@gmail.com**
 
-- ⚡ Fun fact **I still think The world is Flat**
+- ⚡ Fun fact **I Dont Have A Fun Fact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
