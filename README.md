@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **medendale@gmail.com**
 
-- ⚡ Fun fact **I Dont Have A Fun Fact**
+- ⚡ Fun fact ** None **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
