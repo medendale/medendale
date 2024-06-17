@@ -90,14 +90,14 @@
 </tr>
 </tr></tr>
 
-- Cloud Servers
+## Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=gcp,aws,azure,firebase,cloudflare" />
   </a>
 </p>
 
-- Tools
+## Tools
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
