@@ -8,8 +8,6 @@
 
 - 👯 I’m Happy to collaborate on **Any Projects**
 
-- 👨‍💻 All of my projects are available at [https://developermed.com/](https://developermed.com/)
-
 - 📫 How to reach me **medendale@gmail.com**
 
 - ⚡ Fun fact ** None **
